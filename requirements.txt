@@ -1,0 +1,4 @@
+cryptography==42.0.2
+pyperclip==1.8.2
+colorama==0.4.6
+tqdm==4.66.1 
